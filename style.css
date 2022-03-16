@@ -1,0 +1,16 @@
+.grid-container
+{
+    display: grid;
+    grid-template-columns: auto auto auto;  /* wrote it three time to divide it three times*/
+    background-color: aqua;
+    padding: 10px;
+}
+
+.grid-item
+{
+    background-color: blue;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 31px;
+    text-align: center;
+}
